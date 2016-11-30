@@ -1,0 +1,10 @@
+{
+  "main": {
+    "js": "/assets/scripts/main.572a0fbbe1889d15d68d.bundle.js",
+    "css": "/assets/styles/main.572a0fbbe1889d15d68d.css"
+  },
+  "vendor": {
+    "js": "/assets/scripts/vendor.abec09b890f4517fd489.bundle.js",
+    "css": "/assets/styles/vendor.abec09b890f4517fd489.css"
+  }
+}
